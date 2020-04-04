@@ -1,6 +1,6 @@
 ﻿namespace CreateControls
 {
-    partial class Form1
+    partial class createControls
     {
         /// <summary>
         /// Required designer variable.
@@ -41,9 +41,10 @@
             // 
             // grpControls
             // 
-            this.grpControls.Location = new System.Drawing.Point(0, 21);
+            this.grpControls.Font = new System.Drawing.Font("Verdana", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.grpControls.Location = new System.Drawing.Point(0, 27);
             this.grpControls.Name = "grpControls";
-            this.grpControls.Size = new System.Drawing.Size(331, 427);
+            this.grpControls.Size = new System.Drawing.Size(331, 421);
             this.grpControls.TabIndex = 0;
             this.grpControls.TabStop = false;
             this.grpControls.Text = "Controls";
@@ -80,6 +81,7 @@
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
             this.exitToolStripMenuItem.Size = new System.Drawing.Size(224, 22);
             this.exitToolStripMenuItem.Text = "Exit                      Ctrl+Shift+E";
+            this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
             // createToolStripMenuItem
             // 
@@ -102,16 +104,17 @@
             this.labelToolStripMenuItem.Size = new System.Drawing.Size(198, 22);
             this.labelToolStripMenuItem.Text = "Label          Ctrl+Shift+L";
             // 
-            // Form1
+            // createControls
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(331, 450);
             this.Controls.Add(this.grpControls);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "createControls";
+            this.Text = "Create Controls";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);

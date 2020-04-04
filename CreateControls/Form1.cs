@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CreateControls
 {
-    public partial class Form1 : Form
+    public partial class createControls : Form
     {
-        public Form1()
+        public createControls()
         {
             InitializeComponent();
         }
@@ -20,6 +20,11 @@ namespace CreateControls
         private void clearControlsToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            System.Windows.Forms.Application.Exit();
         }
     }
 }
