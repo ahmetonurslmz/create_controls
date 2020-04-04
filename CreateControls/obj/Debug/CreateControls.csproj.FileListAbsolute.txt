@@ -1,9 +1,0 @@
-C:\Users\Casper\workspace\c#\CreateControls\CreateControls\CreateControls\bin\Debug\CreateControls.exe.config
-C:\Users\Casper\workspace\c#\CreateControls\CreateControls\CreateControls\bin\Debug\CreateControls.exe
-C:\Users\Casper\workspace\c#\CreateControls\CreateControls\CreateControls\bin\Debug\CreateControls.pdb
-C:\Users\Casper\workspace\c#\CreateControls\CreateControls\CreateControls\obj\Debug\CreateControls.csprojAssemblyReference.cache
-C:\Users\Casper\workspace\c#\CreateControls\CreateControls\CreateControls\obj\Debug\CreateControls.Properties.Resources.resources
-C:\Users\Casper\workspace\c#\CreateControls\CreateControls\CreateControls\obj\Debug\CreateControls.csproj.GenerateResource.cache
-C:\Users\Casper\workspace\c#\CreateControls\CreateControls\CreateControls\obj\Debug\CreateControls.exe
-C:\Users\Casper\workspace\c#\CreateControls\CreateControls\CreateControls\obj\Debug\CreateControls.pdb
-C:\Users\Casper\workspace\c#\CreateControls\CreateControls\CreateControls\obj\Debug\CreateControls.createControls.resources
