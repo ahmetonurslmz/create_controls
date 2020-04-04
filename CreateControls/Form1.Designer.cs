@@ -72,15 +72,21 @@
             // clearControlsToolStripMenuItem
             // 
             this.clearControlsToolStripMenuItem.Name = "clearControlsToolStripMenuItem";
-            this.clearControlsToolStripMenuItem.Size = new System.Drawing.Size(224, 22);
-            this.clearControlsToolStripMenuItem.Text = "Clear Controls  Ctrl+Shift+C";
+            this.clearControlsToolStripMenuItem.ShortcutKeyDisplayString = "Ctrl+Shift+C";
+            this.clearControlsToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
+            | System.Windows.Forms.Keys.C)));
+            this.clearControlsToolStripMenuItem.Size = new System.Drawing.Size(223, 22);
+            this.clearControlsToolStripMenuItem.Text = "Clear Controls";
             this.clearControlsToolStripMenuItem.Click += new System.EventHandler(this.clearControlsToolStripMenuItem_Click);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(224, 22);
-            this.exitToolStripMenuItem.Text = "Exit                      Ctrl+Shift+E";
+            this.exitToolStripMenuItem.ShortcutKeyDisplayString = "Ctrl+Shift+E";
+            this.exitToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
+            | System.Windows.Forms.Keys.E)));
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(223, 22);
+            this.exitToolStripMenuItem.Text = "Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
             // createToolStripMenuItem
@@ -95,14 +101,20 @@
             // textBoxToolStripMenuItem
             // 
             this.textBoxToolStripMenuItem.Name = "textBoxToolStripMenuItem";
-            this.textBoxToolStripMenuItem.Size = new System.Drawing.Size(198, 22);
-            this.textBoxToolStripMenuItem.Text = "Text Box     Ctrl+Shift+T";
+            this.textBoxToolStripMenuItem.ShortcutKeyDisplayString = "Ctrl+Shift+T";
+            this.textBoxToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
+            | System.Windows.Forms.Keys.T)));
+            this.textBoxToolStripMenuItem.Size = new System.Drawing.Size(190, 22);
+            this.textBoxToolStripMenuItem.Text = "Text Box";
             // 
             // labelToolStripMenuItem
             // 
             this.labelToolStripMenuItem.Name = "labelToolStripMenuItem";
-            this.labelToolStripMenuItem.Size = new System.Drawing.Size(198, 22);
-            this.labelToolStripMenuItem.Text = "Label          Ctrl+Shift+L";
+            this.labelToolStripMenuItem.ShortcutKeyDisplayString = "Ctrl+Shift+L";
+            this.labelToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
+            | System.Windows.Forms.Keys.L)));
+            this.labelToolStripMenuItem.Size = new System.Drawing.Size(190, 22);
+            this.labelToolStripMenuItem.Text = "Label";
             // 
             // createControls
             // 
