@@ -1,0 +1,65 @@
+[33mcommit b9bc8d8dda4fb4a405cb8b2c7b5daff2290607f2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ahmet Onur Solmaz <ahmetonurslmz@gmail.com>
+Date:   Sat Apr 4 20:21:57 2020 +0300
+
+    update.
+
+[33mcommit b709172f7e587e69493b73b552c0d46a191023d7[m
+Author: Ahmet Onur Solmaz <ahmetonurslmz@gmail.com>
+Date:   Sat Apr 4 20:19:28 2020 +0300
+
+    remove gitignore files.
+
+[33mcommit bd80bb58200560dc496a25d9bb149ffd5f58c082[m
+Author: Ahmet Onur Solmaz <ahmetonurslmz@gmail.com>
+Date:   Sat Apr 4 20:15:10 2020 +0300
+
+    updates .gitignore file.
+
+[33mcommit 13a022d36d5038cce0b632a541694eb8f86c0ef7[m
+Author: Ahmet Onur Solmaz <31781134+ahmetonurslmz@users.noreply.github.com>
+Date:   Sat Apr 4 20:00:10 2020 +0300
+
+    Delete CreateControls.csproj.FileListAbsolute.txt
+
+[33mcommit ccb52aefdc715b1b1728f40d94f0d7d478931663[m
+Author: Ahmet Onur Solmaz <ahmetonurslmz@gmail.com>
+Date:   Sat Apr 4 19:58:28 2020 +0300
+
+    completes create controls tool.
+
+[33mcommit 7912a2f93a5561340dcad4ebd8de7a6abaed6987[m
+Author: Ahmet Onur Solmaz <ahmetonurslmz@gmail.com>
+Date:   Sat Apr 4 13:57:00 2020 +0300
+
+    creates create control panel.
+
+[33mcommit 914b6cc72eea3f570637e7b01e8304a532e3f1f7[m
+Author: Ahmet Onur Solmaz <ahmetonurslmz@gmail.com>
+Date:   Sat Apr 4 13:52:24 2020 +0300
+
+    adds keyboard shortcuts for menu functions.
+
+[33mcommit 7be5b97c4ab7727999bbef508bbe76a5b5622c19[m
+Author: Ahmet Onur Solmaz <ahmetonurslmz@gmail.com>
+Date:   Sat Apr 4 13:49:25 2020 +0300
+
+    adds exit function
+
+[33mcommit 429a05d8aff343a95d46820091b5a3546fdb1d96[m
+Author: Ahmet Onur Solmaz <ahmetonurslmz@gmail.com>
+Date:   Sat Apr 4 13:45:55 2020 +0300
+
+    creates menu.
+
+[33mcommit 2f454dada755d12915f43dc17c2eeddb5dfe9ac0[m
+Author: Ahmet Onur Solmaz <ahmetonurslmz@gmail.com>
+Date:   Sat Apr 4 13:43:34 2020 +0300
+
+    creates control group box.
+
+[33mcommit baf302d860d8f4d35bb0776e9c36e76d4ebbebfd[m
+Author: Ahmet Onur Solmaz <ahmetonurslmz@gmail.com>
+Date:   Sat Apr 4 13:42:24 2020 +0300
+
+    initializes project.
