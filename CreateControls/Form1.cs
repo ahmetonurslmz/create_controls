@@ -16,5 +16,10 @@ namespace CreateControls
         {
             InitializeComponent();
         }
+
+        private void clearControlsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
